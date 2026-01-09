@@ -1,5 +1,5 @@
 {
-  "welcome": "Bingo Oyunu",
+  "welcome": "Tombala Oyunu",
   "online_play": "Online Oyna",
   "online_desc": "Gerçek oyuncularla odalara katıl veya oda kur.",
   "offline_play": "Offline Oyna",
@@ -12,5 +12,22 @@
   "join_room": "Odaya Katıl",
   "waiting": "Bekliyor",
   "playing": "Oynanıyor",
-  "finished": "Bitti"
+  "finished": "Bitti",
+  "congrats": "Tebrikler, Tombala yaptınız!",
+  "draw_number": "Sayı Çek",
+  "game_over": "Oyun Bitti",
+  "last_drawn": "Son Çekilen Sayı",
+  "drawn_count": "Çekilen Sayılar",
+  "restart": "Oyunu Yeniden Başlat",
+  "cinko1": "1. Çinko",
+  "cinko2": "2. Çinko",
+  "tulum": "Tulum (Tombala)",
+  "tombala_classic": "Türk Tombalası",
+  "bingo_classic": "Bingo Classic",
+  "online_multiplayer": "Online Çok Oyunculu",
+  "offline_practice": "Çevrimdışı Antrenman",
+  "tombala_desc": "90 sayı ile geleneksel tombala deneyimi.",
+  "bingo_desc": "75 sayı ve 5x5 kart ile klasik bingo.",
+  "auto_fill": "Otomatik İşaretle",
+  "manual_mark_hint": "Sayıları üzerine tıklayarak kendin işaretle!"
 }

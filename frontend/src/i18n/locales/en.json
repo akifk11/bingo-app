@@ -1,5 +1,5 @@
 {
-  "welcome": "Bingo Game",
+  "welcome": "Tombala Game",
   "online_play": "Play Online",
   "online_desc": "Join rooms or create a room with real players.",
   "offline_play": "Play Offline",
@@ -12,5 +12,22 @@
   "join_room": "Join Room",
   "waiting": "Waiting",
   "playing": "Playing",
-  "finished": "Finished"
+  "finished": "Finished",
+  "congrats": "Congratulations, you got Tombala!",
+  "draw_number": "Draw Number",
+  "game_over": "Game Over",
+  "last_drawn": "Last Drawn Number",
+  "drawn_count": "Drawn Numbers",
+  "restart": "Restart Game",
+  "cinko1": "1st Row",
+  "cinko2": "2nd Row",
+  "tulum": "Tombala (Full Card)",
+  "tombala_classic": "Turkish Tombala",
+  "bingo_classic": "Bingo Classic",
+  "online_multiplayer": "Online Multiplayer",
+  "offline_practice": "Offline Practice",
+  "tombala_desc": "Traditional experience with 90 numbers.",
+  "bingo_desc": "Classic 75 numbers and 5x5 card.",
+  "auto_fill": "Auto Mark",
+  "manual_mark_hint": "Click on numbers to mark them yourself!"
 }
