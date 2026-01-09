@@ -1,0 +1,16 @@
+{
+  "welcome": "Bingo Oyunu",
+  "online_play": "Online Oyna",
+  "online_desc": "Gerçek oyuncularla odalara katıl veya oda kur.",
+  "offline_play": "Offline Oyna",
+  "offline_desc": "Bilgisayara karşı tek başına antrenman yap.",
+  "offline_mode": "Offline Mod",
+  "coming_soon": "Bu özellik çok yakında eklenecek!",
+  "back": "Geri Dön",
+  "game_status": "Oyun Durumu",
+  "create_room": "Yeni Oda Oluştur",
+  "join_room": "Odaya Katıl",
+  "waiting": "Bekliyor",
+  "playing": "Oynanıyor",
+  "finished": "Bitti"
+}

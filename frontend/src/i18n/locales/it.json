@@ -1,0 +1,16 @@
+{
+  "welcome": "Gioco del Bingo",
+  "online_play": "Gioca Online",
+  "online_desc": "Unisciti alle stanze o crea una stanza con giocatori reali.",
+  "offline_play": "Gioca Offline",
+  "offline_desc": "Esercitati da solo contro il computer.",
+  "offline_mode": "Modalità Offline",
+  "coming_soon": "Questa funzione arriverà presto!",
+  "back": "Indietro",
+  "game_status": "Stato del gioco",
+  "create_room": "Crea nuova stanza",
+  "join_room": "Entra nella stanza",
+  "waiting": "In attesa",
+  "playing": "In gioco",
+  "finished": "Finito"
+}

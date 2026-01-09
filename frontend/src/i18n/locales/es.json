@@ -1,0 +1,16 @@
+{
+  "welcome": "Juego de Bingo",
+  "online_play": "Jugar en Línea",
+  "online_desc": "Únete a salas o crea una sala con jugadores reales.",
+  "offline_play": "Jugar en Solitario",
+  "offline_desc": "Practica solo contra la computadora.",
+  "offline_mode": "Modo en Solitario",
+  "coming_soon": "¡Esta función estará disponible pronto!",
+  "back": "Volver",
+  "game_status": "Estado del juego",
+  "create_room": "Crear nueva sala",
+  "join_room": "Unirse a la sala",
+  "waiting": "Esperando",
+  "playing": "Jugando",
+  "finished": "Terminado"
+}

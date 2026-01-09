@@ -1,0 +1,16 @@
+{
+  "welcome": "Bingo Game",
+  "online_play": "Play Online",
+  "online_desc": "Join rooms or create a room with real players.",
+  "offline_play": "Play Offline",
+  "offline_desc": "Practice alone against the computer.",
+  "offline_mode": "Offline Mode",
+  "coming_soon": "This feature is coming soon!",
+  "back": "Back",
+  "game_status": "Game Status",
+  "create_room": "Create New Room",
+  "join_room": "Join Room",
+  "waiting": "Waiting",
+  "playing": "Playing",
+  "finished": "Finished"
+}

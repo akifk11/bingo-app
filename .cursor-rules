@@ -1,0 +1,53 @@
+# Bingo App Project Rules & Requirements
+
+## Project Overview
+A real-time Bingo (Tombala) application featuring both online (multiplayer) and offline (single player) modes.
+
+## Tech Stack
+### Frontend
+- **Framework:** Next.js (App Router)
+- **Styling:** Tailwind CSS
+- **State Management:** Zustand
+- **Validation:** Zod
+- **Real-time:** Socket.io-client
+- **Internationalization:** i18next (Supported languages: English, Turkish, German, Italian, Russian, Spanish)
+
+### Backend
+- **Runtime:** Node.js (ES Modules)
+- **Framework:** Express
+- **Real-time:** Socket.io
+- **Database ORM:** Prisma
+- **Database:** PostgreSQL (Neon.tech)
+- **Caching/Real-time State:** Redis (Docker container)
+
+## Core Requirements
+1. **Authentication:** User registration and login.
+2. **Game Modes:**
+   - **Online:** Real-time multiplayer rooms. Players can create or join rooms.
+   - **Offline:** Single player mode against the computer.
+3. **Game Logic:**
+   - Automatic or manual number drawing.
+   - 5x5 Bingo cards.
+   - Real-time updates for all players in a room.
+4. **Localization:** Full support for English, Turkish, German, Italian, Russian, and Spanish.
+5. **Real-time Communication:** Use Socket.io for all in-game interactions.
+6. **Data Persistence:** Store user profiles and game history in PostgreSQL via Prisma.
+
+## Coding Standards
+- Use ES Modules in the backend (import/export).
+- Maintain a clean separation between frontend and backend.
+- Ensure type safety using Zod in the frontend.
+- Follow a consistent naming convention.
+- Keep components small and reusable.
+- Use Tailwind for responsive design.
+
+## Development Environment
+- Backend runs on port 3001.
+- Frontend runs on port 3000.
+- Redis runs on port 6379 in a Docker container.
+- Environment variables are managed via `.env` files (excluded from Git).
+
+## Rules
+- Always use the current project structure: `frontend/` and `backend/` at the root.
+- Do not add new features without considering localization (i18n).
+- Maintain the `LICENSE` file as provided (personal/educational use only).
